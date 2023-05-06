@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/quadB-dashboard/static/css/main.5d2d3b13.css",
+    "main.js": "/quadB-dashboard/static/js/main.e152f186.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/quadB-dashboard/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logo.svg": "/quadB-dashboard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/quadB-dashboard/index.html",
+    "main.5d2d3b13.css.map": "/quadB-dashboard/static/css/main.5d2d3b13.css.map",
+    "main.e152f186.js.map": "/quadB-dashboard/static/js/main.e152f186.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/quadB-dashboard/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d2d3b13.css",
+    "static/js/main.e152f186.js"
+  ]
+}
